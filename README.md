@@ -13,7 +13,7 @@
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <div align="left">
-        <p>My name is Guilherme Delgado<br>I am a Full Stack Developer<br>Contact: guilhermedelgado876@gmail.com</p>
+        <p><br><br><br><br><br><br>My name is Guilherme Delgado<br>I am a Full Stack Developer<br>Contact: guilhermedelgado876@gmail.com</p>
       </div>
     </div>
 </div>  
