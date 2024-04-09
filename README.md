@@ -4,16 +4,17 @@
 <div id="header" align="center">
     <a href="https://github.com/guigasprog" align="center">
       <div align="center">
-        <img height="160em" align="left" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical"/>
-        <img height="160em" align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guigasprog&layout=compact&langs_count=6&theme=radical"/>
+        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical"/>
+        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guigasprog&layout=compact&langs_count=6&theme=radical"/>
       </div>
     </a>
     <div align="center">
+      <h1></h1>
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <div align="left">
-        <p><br><br><br><br><br><br>My name is Guilherme Delgado<br>I am a Full Stack Developer<br>Contact: guilhermedelgado876@gmail.com</p>
+        <p>My name is Guilherme Delgado<br>I am a Full Stack Developer<br>Contact: guilhermedelgado876@gmail.com</p>
       </div>
     </div>
 </div>  
