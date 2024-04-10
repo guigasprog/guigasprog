@@ -1,6 +1,7 @@
 <div align="center">
   <h2> Hello Guys <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"></h2>
 </div>
+
 <div align="left">
 
 ```typescript
@@ -30,8 +31,11 @@ const guigas: Developer = {
 
 </div>
 
-<div>
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical"/>
+<div align="center">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical" />
   <h3>More Info</h3>
 </div>
 
