@@ -1,7 +1,41 @@
 <div align="center">
-  <h1> Hello Guys 👋</h1>
+  <h2> Hello Guys <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"></h2>
 </div>
-<div id="header" align="center">
+<div align="left">
+
+```typescript
+const guigas: Developer = {
+  name: 'Guilherme Delgado',
+  email: 'guilhermedelgado876@gmail.com',
+  programmingLanguage: [{
+    language: 'typescript',
+    timeUse: '1 Years',
+    support: {
+      language: 'javascript',
+      timeUse: '2 years'
+    },
+    framework: 'Angular'
+  },{
+    language: 'Java',
+    timeUse: '1 Years',
+    framework: 'Spring-boot'
+  }],
+  developer: Dev.FULLSTACK,
+  hobby: [
+    'Watch series and movies',
+    'Play online games'
+  ]
+};
+```
+
+</div>
+
+<div>
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical"/>
+  <h3>More Info</h3>
+</div>
+
+<!-- <div id="header" align="center">
     <a href="https://github.com/guigasprog" align="center">
       <div align="center">
         <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical"/>
@@ -17,12 +51,7 @@
         <p>My name is Guilherme Delgado<br>I am a Full Stack Developer<br>Contact: guilhermedelgado876@gmail.com</p>
       </div>
     </div>
-</div>  
-<!--   <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/henry-f-086541270/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div> -->
+</div>   -->
 
 <!--
 **guigasprog/guigasprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
