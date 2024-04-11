@@ -1,7 +1,7 @@
 <div align="center">
   <h2> Hello Guys <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"></h2>
 </div>
-<img height="465" align="right" src="https://media.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" />
+<img height="410" align="right" src="https://media.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif" />
 <div align="left">
 
 ```typescript
