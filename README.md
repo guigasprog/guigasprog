@@ -39,6 +39,10 @@ const guigas: Developer = {
   <h3>More Info</h3>
 </div>
 
+<div align="center">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
 <!-- <div id="header" align="center">
     <a href="https://github.com/guigasprog" align="center">
       <div align="center">
