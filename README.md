@@ -7,7 +7,10 @@
 ```typescript
 const guigas: Developer = {
   name: 'Guilherme Delgado',
-  email: 'guilhermedelgado876@gmail.com',
+  email: [
+    'guilhermedelgado876@gmail.com',
+    'guilherme.d.martins@outlook.com'
+  ],
   programmingLanguage: [{
     language: 'typescript',
     timeUse: '1 Years',
