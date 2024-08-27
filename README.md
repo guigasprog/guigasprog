@@ -13,10 +13,10 @@ const guigas: Developer = {
   programmingLanguage: [{
     language: 'typescript',
     timeUse: '1 Years',
-    support: {
+    support: [{
       language: 'javascript',
-      timeUse: '2 years'
-    },
+      timeUse: '2 Years'
+    }],
     framework: 'Angular'
   },{
     language: 'Java',
@@ -26,7 +26,8 @@ const guigas: Developer = {
   developer: Dev.FULLSTACK,
   hobby: [
     'Watch series and movies',
-    'Play online games'
+    'Play online games',
+    'Create games'
   ]
 };
 ```
