@@ -41,7 +41,7 @@ const guigas: Developer = {
 <br>
 
 <div align="center">
-  <h2>🎯 Metas&lt;/h2>
+  <h2>🎯 Metas</h2>
 </div>
 <div align="left">
 
