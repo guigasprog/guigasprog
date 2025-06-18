@@ -12,19 +12,19 @@ const guigas: Developer = {
   ],
   programmingLanguage: [{
     language: 'typescript',
-    timeUse: '1 Years',
+    timeUse: '2 Years',
     support: [{
       language: 'javascript',
-      timeUse: '2 Years'
+      timeUse: '3 Years'
     }],
     framework: 'Angular'
   },{
     language: 'Java',
-    timeUse: '1 Years',
+    timeUse: '2 Years',
     framework: 'Spring-boot'
   },{
     language: 'PHP',
-    timeUse: '1 Years',
+    timeUse: '2 Years',
     framework: 'Adianti Framework'
   }],
   developer: Dev.FULLSTACK,
@@ -37,8 +37,23 @@ const guigas: Developer = {
 ```
 
 </div>
+
+<br>
+
 <div align="center">
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical" />  
+  <h2>🎯 Metas&lt;/h2>
+</div>
+<div align="left">
+
+    Expandir o Portfólio: Desenvolver e publicar mais projetos práticos e diversificados.
+    Criar um Framework Modular: Construir um sistema integrado com Angular, Spring Boot e PHP que automatize a criação de interfaces a partir das entidades do back-end, similar à filosofia do Adianti Framework.
+
+</div>
+
+<br>
+
+<div align="center">
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&amp;show_icons=true&amp;theme=radical" />  
   <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />     
   <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
@@ -53,36 +68,3 @@ const guigas: Developer = {
 <div align="center">
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
-<!-- <div id="header" align="center">
-    <a href="https://github.com/guigasprog" align="center">
-      <div align="center">
-        <img height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical"/>
-        <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=guigasprog&layout=compact&langs_count=6&theme=radical"/>
-      </div>
-    </a>
-    <div align="center">
-      <h1></h1>
-      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <div align="left">
-        <p>My name is Guilherme Delgado<br>I am a Full Stack Developer<br>Contact: guilhermedelgado876@gmail.com</p>
-      </div>
-    </div>
-</div>   -->
-
-<!--
-**guigasprog/guigasprog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
