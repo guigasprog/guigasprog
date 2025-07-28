@@ -20,7 +20,7 @@ const guigas: Developer = {
     framework: 'Angular'
   },{
     language: 'Java',
-    timeUse: '2 Years',
+    timeUse: '3 Years',
     framework: 'Spring-boot'
   },{
     language: 'PHP',
