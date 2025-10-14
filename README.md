@@ -12,19 +12,19 @@ const guigas: Developer = {
   ],
   programmingLanguage: [{
     language: 'typescript',
-    timeUse: '2 Years',
+    timeUse: '3 Years',
     support: [{
       language: 'javascript',
-      timeUse: '3 Years'
+      timeUse: '4 Years'
     }],
     framework: 'Angular'
   },{
     language: 'Java',
-    timeUse: '3 Years',
+    timeUse: '4 Years',
     framework: 'Spring-boot'
   },{
     language: 'PHP',
-    timeUse: '2 Years',
+    timeUse: '3 Years',
     framework: 'Adianti Framework'
   }],
   developer: Dev.FULLSTACK,
