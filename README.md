@@ -45,6 +45,7 @@ const guigas: Developer = {
 </div>
 <div align="left">
 
+    Finalizar meu Trabalho de Conclusão de Curso. (VibeVault)
     Expandir o Portfólio: Desenvolver e publicar mais projetos práticos e diversificados.
     Criar um Framework Modular: Construir um sistema integrado com Angular, Spring Boot e PHP que automatize a criação de interfaces a partir das entidades do back-end, similar à filosofia do Adianti Framework.
 
