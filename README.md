@@ -47,16 +47,16 @@ const guigas: Developer = {
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<div align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" />
+<div align="left"> 
+  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" /> 
+  <img title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" /> 
+  <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" /> 
+  <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" /> 
+  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" /> 
+  <img title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> 
+  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" /> 
+  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" /> 
+  <img title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" /> 
 </div>
 
 ---
@@ -66,19 +66,20 @@ const guigas: Developer = {
 ```typescript
 const goals: Record<string, Goal> = {
   vibeVault: {
-    title: 'Finalizar TCC (VibeVault)',
-    subTasks: ['✔️ Desenvolvimento Core', '🕑 Documentação', '🎓 Apresentação'],
-    status: 'In Progress'
+    project: 'TCC - VibeVault',
+    focus: ['Fullstack Architecture', 'Documentation', 'Pitch'],
+    status: 'On-going'
   },
-  portfolio: {
-    title: 'Expandir Portfólio',
-    subTasks: ['Projetos Reais', 'Open Source contributions'],
-    status: 'In Progress'
+  careerExpansion: {
+    portfolio: 'Diversified Case Studies',
+    leadership: 'Tech Lead Excellence',
+    status: 'On-going'
   },
-  modularFramework: {
-    title: 'Construir Framework Modular',
-    subTasks: ['Integração Angular/Node.Js', 'Automação de Interfaces'],
-    status: 'Researching'
+  innovation: {
+    title: 'Modular Framework',
+    techStack: ['Angular', 'Node.Js'],
+    philosophy: 'Adianti-inspired automated UI generation',
+    status: 'Research & Development'
   }
 };
 ```
