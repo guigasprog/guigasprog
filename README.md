@@ -1,71 +1,86 @@
 <div align="center">
-  <h2> Hello Guys <img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28px"></h2>
+  <h1>Olá, eu sou o Guilherme Delgado! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+  <p align="center">
+    <a href="mailto:guilhermedelgado876@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
 </div>
-<div align="left">
+
+---
+
+### 💻 Sobre Mim
 
 ```typescript
 const guigas: Developer = {
   name: 'Guilherme Delgado',
-  email: [
-    'guilhermedelgado876@gmail.com',
-    'guilherme.d.martins@outlook.com'
-  ],
-  programmingLanguage: [{
-    language: 'typescript',
-    timeUse: '3 Years',
-    support: [{
-      language: 'javascript',
-      timeUse: '4 Years'
-    }],
-    framework: 'Angular'
-  },{
-    language: 'Java',
-    timeUse: '4 Years',
-    framework: 'Spring-boot'
-  },{
-    language: 'PHP',
-    timeUse: '3 Years',
-    framework: 'Adianti Framework'
-  }],
-  developer: Dev.FULLSTACK,
-  hobby: [
+  role: Dev.FULLSTACK,
+  stack: {
+    frontend: ['Angular', 'TypeScript', 'JavaScript'],
+    backend: ['Spring Boot (Java)', 'Adianti Framework (PHP)'],
+    database: ['PostgreSQL']
+  },
+  experience: {
+    java: '4 Years',
+    php: '3 Years',
+    typescript: '3 Years'
+  },
+  hobbies: [
     'Watch series and movies',
-    'Play online games',
-    'Create games'
+    'Play & Create games'
   ]
+};
+
+```
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+<div align="left">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-6DB33F%3Fstyle%3Dfor-the-badge%26logo%3Dspring-boot%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PHP-777BB4%3Fstyle%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-316192%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GIT-E44C30%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Postman-FF6C37%3Fstyle%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite" />
+</div>
+
+---
+
+### 🎯 Metas & Objetivos
+
+```typescript
+const goals: Record<string, Goal> = {
+  vibeVault: {
+    title: 'Finalizar TCC (VibeVault)',
+    subTasks: ['Desenvolvimento Core', 'Documentação', 'Apresentação'],
+    status: 'In Progress'
+  },
+  portfolio: {
+    title: 'Expandir Portfólio',
+    subTasks: ['Projetos Reais', 'Open Source contributions'],
+    status: 'In Progress'
+  },
+  modularFramework: {
+    title: 'Construir Framework Modular',
+    subTasks: ['Integração Angular/Spring/PHP', 'Automação de Interfaces'],
+    status: 'Researching'
+  }
 };
 ```
 
-</div>
+---
 
-<br>
-
-<div align="center">
-  <h2>🎯 Metas</h2>
-</div>
-<div align="left">
-
-    Finalizar meu Trabalho de Conclusão de Curso. (VibeVault)
-    Expandir o Portfólio: Desenvolver e publicar mais projetos práticos e diversificados.
-    Criar um Framework Modular: Construir um sistema integrado com Angular, Spring Boot e PHP que automatize a criação de interfaces a partir das entidades do back-end, similar à filosofia do Adianti Framework.
-
-</div>
-
-<br>
+### 📊 Estatísticas & Atividade
 
 <div align="center">
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&amp;show_icons=true&amp;theme=radical" />  
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />     
-  <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <div></div>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" />
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img height="170em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dguigasprog%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
+<img height="170em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dguigasprog%26layout%3Dcompact%26theme%3Dradical%26hide%3Dhtml" />
 </div>
+
 <div align="center">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
