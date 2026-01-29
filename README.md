@@ -22,7 +22,7 @@ const guigas: Developer = {
   management: {
     focus: ['Technical Leadership', 'Software Architecture', 'Team Mentoring'],
     methodologies: ['Scrum', 'Kanban', 'Clean Architecture', 'Clean Code']
-  }
+  },
   stack: {
     frontend: ['Angular', 'React', 'React Native', 'TypeScript', 'JavaScript'],
     backend: ['Spring Boot (Java)', 'Adianti Framework (PHP)', 'Laravel (PHP)', 'Dataflex'],
