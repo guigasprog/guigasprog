@@ -89,10 +89,5 @@ const goals: Record<string, Goal> = {
 ### 📊 Estatísticas & Atividade
 
 <div align="center">
-<img height="170em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dguigasprog%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-<img height="170em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dguigasprog%26layout%3Dcompact%26theme%3Dradical%26hide%3Dhtml" />
-</div>
-
-<div align="center">
 <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
