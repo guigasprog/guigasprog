@@ -14,14 +14,15 @@ const guigas: Developer = {
   name: 'Guilherme Delgado',
   role: Dev.FULLSTACK,
   stack: {
-    frontend: ['Angular', 'TypeScript', 'JavaScript'],
-    backend: ['Spring Boot (Java)', 'Adianti Framework (PHP)'],
-    database: ['PostgreSQL']
+    frontend: ['Angular', 'React', 'React Native', 'TypeScript', 'JavaScript'],
+    backend: ['Spring Boot (Java)', 'Adianti Framework (PHP)', 'Laravel (PHP)', 'Dataflex'],
+    database: ['PostgreSQL', 'MySQL']
   },
   experience: {
-    java: '4 Years',
-    php: '3 Years',
-    typescript: '3 Years'
+    java: '5 Years',
+    javascript: '5 Years',
+    php: '4 Years',
+    typescript: '4 Years'
   },
   hobbies: [
     'Watch series and movies',
