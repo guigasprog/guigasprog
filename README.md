@@ -12,7 +12,17 @@
 ```typescript
 const guigas: Developer = {
   name: 'Guilherme Delgado',
-  role: Dev.FULLSTACK,
+  roles: [
+    Dev.FULLSTACK, 
+    Dev.MOBILE,
+    Design.UI_UX,
+    Lead.TECHNICAL,
+    Analyst.SYSTEMS
+  ],
+  management: {
+    focus: ['Technical Leadership', 'Software Architecture', 'Team Mentoring'],
+    methodologies: ['Scrum', 'Kanban', 'Clean Architecture', 'Clean Code']
+  }
   stack: {
     frontend: ['Angular', 'React', 'React Native', 'TypeScript', 'JavaScript'],
     backend: ['Spring Boot (Java)', 'Adianti Framework (PHP)', 'Laravel (PHP)', 'Dataflex'],
@@ -22,7 +32,8 @@ const guigas: Developer = {
     java: '5 Years',
     javascript: '5 Years',
     php: '4 Years',
-    typescript: '4 Years'
+    typescript: '4 Years',
+    dataflex: '1 Years'
   },
   hobbies: [
     'Watch series and movies',
@@ -56,7 +67,7 @@ const guigas: Developer = {
 const goals: Record<string, Goal> = {
   vibeVault: {
     title: 'Finalizar TCC (VibeVault)',
-    subTasks: ['Desenvolvimento Core', 'Documentação', 'Apresentação'],
+    subTasks: ['✔️ Desenvolvimento Core', '🕑 Documentação', '🎓 Apresentação'],
     status: 'In Progress'
   },
   portfolio: {
@@ -66,7 +77,7 @@ const goals: Record<string, Goal> = {
   },
   modularFramework: {
     title: 'Construir Framework Modular',
-    subTasks: ['Integração Angular/Spring/PHP', 'Automação de Interfaces'],
+    subTasks: ['Integração Angular/Node.Js', 'Automação de Interfaces'],
     status: 'Researching'
   }
 };
