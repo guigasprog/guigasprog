@@ -16,7 +16,7 @@ const guigas: TechLead = {
   name: 'Guilherme Delgado',
   experience: '5+ Years',
   roles: [
-    'Tech Lead @ FEMA', 'Fullstack Developer', 
+    'Tech Lead', 'Fullstack Developer', 
     'Systems Analyst', 'UI/UX Designer'
   ],
   management: {
@@ -55,7 +55,7 @@ const guigas: TechLead = {
 ### 🎯 Roadmap de Inovação
 
 ```typescript
-const roadmap = {
+const roadmap: Goals = {
   academic: {
     project: 'VibeVault (TCC)',
     focus: [
@@ -68,7 +68,7 @@ const roadmap = {
   framework: {
     name: 'Modular UI Engine',
     inspiration: 'Adianti Philosophy',
-    stack: ['Angular', 'Spring Boot', 'Node.js'],
+    stack: ['Angular', 'Node.js'],
     objective: 'Zero-code UI generation from Backend Entities'
   },
   leadership: {
