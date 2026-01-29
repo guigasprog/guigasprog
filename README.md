@@ -84,11 +84,11 @@ const roadmap = {
 ### 📊 Performance & Contributions
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guigasprog&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigasprog&layout=compact&theme=radical&hide=html" />
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./profile/languages.svg" alt="Top Languages" />
 </div>
 
 <div align="center">
-<br />
-<img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <br />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/guigasprog/guigasprog/output/github-contribution-grid-snake-dark.svg" />
 </div>
