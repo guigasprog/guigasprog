@@ -39,7 +39,7 @@ const guigas: TechLead = {
 
 ### 🛠️ Tech Stack & Tools
 
-<div align="left">
+<div align="center">
   <!-- Frontend -->
   <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
   <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
@@ -84,7 +84,3 @@ const roadmap: Goals = {
   }
 };
 ```
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guigasprog&layout=compact&theme=vision-friendly-dark" alt="Top Langs" />
-</p>
