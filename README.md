@@ -1,9 +1,11 @@
-
 <div align="center">
-  <h1>Olá, eu sou o Guilherme Delgado! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+  <h1>Hi, I'm Guilherme Delgado! <img src="[https://raw.githubusercontent.com/ABSphreak/ABSphreak/refs/heads/master/gifs/Hi.gif](https://raw.githubusercontent.com/ABSphreak/ABSphreak/refs/heads/master/gifs/Hi.gif)" width="30px"></h1>
   <p align="center">
-    <a href="mailto:guilherme.d.martins@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/SEU_USER"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <strong>Fullstack Developer | Tech Lead</strong>
+  </p>
+  <p align="center">
+    <a href="mailto:guilherme.d.martins@outlook.com"><img src="[https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)" /></a>
+    <a href="[https://guilherme-delgado-martins.vercel.app](https://guilherme-delgado-martins.vercel.app)">Portfólio</a>
   </p>
 </div>
 
@@ -13,23 +15,24 @@
 
 ```typescript
 const guigas: TechLead = {
-  name: 'Guilherme Delgado',
-  experience: '5+ Years',
-  roles: [
-    'Tech Lead', 'Fullstack Developer', 
-    'Systems Analyst', 'UI/UX Designer'
+  name: 'Guilherme Delgado Martins',
+  role: 'Tech Lead & Fullstack Developer',
+  location: 'Assis, SP - Brazil',
+  currentFocus: [
+    'Scalable POS Systems', 
+    'ERP Modernization', 
+    'Modular UI Engines'
   ],
   management: {
     methodologies: ['Scrum', 'Kanban', 'System Design'],
-    focus: ['Technical Mentorship', 'Scalable Architecture', 'Clean Code']
+    softSkills: ['Technical Mentorship', 'Architecture Strategy', 'Clean Code']
   },
   mainStack: {
-    frontend: ['Angular', 'React', 'React Native', 'TypeScript'],
-    backend: ['Spring Boot', 'PHP (Laravel/Adianti)', 'Node.js', 'Dataflex'],
-    database: ['PostgreSQL', 'MySQL', 'MongoDB']
+    frontend: ['Angular', 'React Native', 'React', 'Flet'],
+    backend: ['Spring Boot', 'Node.js', 'Laravel', 'Dataflex'],
+    database: ['SQL Server', 'PostgreSQL', 'SQLite']
   }
 };
-
 ```
 
 ---
@@ -37,18 +40,29 @@ const guigas: TechLead = {
 ### 🛠️ Tech Stack & Tools
 
 <div align="left">
-  <img title="Angular" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
-  <img title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40" />
-  <img title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40" />
-  <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />
-  <img title="Spring Boot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40" />
-  <img title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40" />
-  <img title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="40" height="40" />
-  <img title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-  <img title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
-  <img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" />
-  <img title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+  <!-- Frontend -->
+  <img title="Angular" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg)" width="40" height="40" />
+  <img title="React Native" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)" width="40" height="40" />
+  <img title="TypeScript" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)" width="40" height="40" />
+  <!-- Backend -->
+  <img title="Java" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)" width="40" height="40" />
+  <img title="Spring Boot" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg)" width="40" height="40" />
+  <img title="Node.js" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)" width="40" height="40" />
+  <img title="PHP" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg)" width="40" height="40" />
+  <img title="Python" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)" width="40" height="40" />
+  <!-- DB & Ops -->
+  <img title="Microsoft SQL Server" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg)" width="40" height="40" />
+  <img title="Docker" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg)" width="40" height="40" />
+  <img title="Git" src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)" width="40" height="40" />
 </div>
+
+---
+
+### 🚀 Featured Projects
+
+*   **VibeVault (TCC):** Sistema modular acadêmico focado em arquitetura robusta com Adianti Framework, Angular e Express.
+*   **Modernização:** Transformação de sistemas legados em produtos modernos, escaláveis e touch-ready.
+*   **Modular UI Engine:** Framework inspirado na filosofia Adianti para geração de interfaces dinâmicas a partir do Backend.
 
 ---
 
@@ -58,23 +72,20 @@ const guigas: TechLead = {
 const roadmap: Goals = {
   academic: {
     project: 'VibeVault (TCC)',
-    focus: [
-      'Fullstack Architecture', 
-      'Technical Documentation', 
-      'System Design & Pitch'
-    ],
-    status: 'Finalizing'
+    status: 'Finalizing / Qualifying',
+    focus: ['Documentation', 'Pitching', 'Fullstack Excellence']
   },
-  framework: {
-    name: 'Modular UI Engine',
-    inspiration: 'Adianti Philosophy',
-    stack: ['Angular', 'Node.js'],
-    objective: 'Zero-code UI generation from Backend Entities'
+  professional: {
+    leadership: 'Mentoring beginners & Scaling CEPEIN projects',
+    innovation: 'Integrating automated testing (JaCoCo) & CI/CD workflows'
   },
-  leadership: {
-    goal: 'Tech Lead Excellence',
-    focus: ['Architecture Scalability', 'Process Automation']
+  personal: {
+    gaming: ['Strategy', 'Game Development']
   }
 };
+```
 
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=guigasprog&layout=compact&theme=vision-friendly-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=guigasprog&layout=compact&theme=vision-friendly-dark)" alt="Top Langs" />
+</p>
 ```
