@@ -86,7 +86,3 @@ const roadmap: Goals = {
   }
 };
 ```
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/guigasprog/guigasprog/main/profile-night-view.svg" alt="Sistema Solar de Contribuições"/>
-</div>
